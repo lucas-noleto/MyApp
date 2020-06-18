@@ -33,7 +33,7 @@ h2,h3 {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
-  background-color: #26cfdd;
+  background-color:#26cfdd;
   color: white;
 }
 
@@ -66,6 +66,3 @@ h2,h3 {
 
 
 
-#div2 {
-	float: right;
-	}
